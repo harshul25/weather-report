@@ -1,0 +1,6 @@
+[project]
+name = "weather"
+
+[tool.dagster]
+module_name = "weather"
+code_location_name = "weather"
